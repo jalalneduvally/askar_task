@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458242864081",
+    "project_id": "productdetails-747e5",
+    "storage_bucket": "productdetails-747e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458242864081:android:7473839d169f49786f26f0",
+        "android_client_info": {
+          "package_name": "com.example.askar_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYSq0FPfyUaMRg7p40oFWKhpMlQoSrcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
